@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[6708,["173","static/chunks/173-fc1079eda2a64e6d.js","177","static/chunks/app/layout-9f3b55a64ff9cfde.js"],"AppShell"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[5311,["173","static/chunks/173-fc1079eda2a64e6d.js","442","static/chunks/442-570fe5cd173367e8.js","165","static/chunks/165-9c86cc401018ac44.js","341","static/chunks/341-756400a245aa2356.js","345","static/chunks/app/not-found-8b9709d37e64d1e7.js"],"default"]
+6:I[878,["173","static/chunks/173-fc1079eda2a64e6d.js","177","static/chunks/app/layout-9f3b55a64ff9cfde.js"],"RegisterServiceWorker"]
+7:I[7033,[],"ClientPageRoot"]
+8:I[5935,["153","static/chunks/d0f5a89a-6d7037315bf4beab.js","173","static/chunks/173-fc1079eda2a64e6d.js","442","static/chunks/442-570fe5cd173367e8.js","165","static/chunks/165-9c86cc401018ac44.js","995","static/chunks/995-1eca9c74dc75ef4b.js","250","static/chunks/250-92a2d95a42d9baf3.js","47","static/chunks/app/ceremony/page-89e8fb81c9737417.js"],"default"]
+b:I[6213,[],"OutletBoundary"]
+d:I[6213,[],"MetadataBoundary"]
+f:I[6213,[],"ViewportBoundary"]
+11:I[4835,[],""]
+:HL["/trust-network-app/_next/static/css/eade7ffff158fa67.css","style"]
+0:{"P":null,"b":"r9cKDnAFYUK3bcqg-OMT5","p":"/trust-network-app","c":["","ceremony",""],"i":false,"f":[[["",{"children":["ceremony",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/trust-network-app/_next/static/css/eade7ffff158fa67.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","children":["$","body",null,{"children":[["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","$L5",null,{}]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":["ceremony",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","ceremony","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L7",null,{"Component":"$8","searchParams":{},"params":{},"promises":["$@9","$@a"]}],null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","ogSSQpgXZ7C2bLtacEfhA",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],null]}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+9:{}
+a:{}
+10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","1",{"name":"theme-color","content":"#111111"}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Trust Network"}],["$","meta","2",{"name":"description","content":"Peer-to-peer trust network — prove you are a real person."}],["$","meta","3",{"name":"application-name","content":"Trust Network"}],["$","link","4",{"rel":"manifest","href":"/trust-network-app/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","6",{"name":"apple-mobile-web-app-title","content":"Trust"}],["$","meta","7",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","8",{"rel":"icon","href":"/trust-network-app/icons/icon-192.png","sizes":"192x192","type":"image/png"}],["$","link","9",{"rel":"apple-touch-icon","href":"/trust-network-app/icons/icon-180.png","sizes":"180x180","type":"image/png"}]]
+c:null
